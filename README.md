@@ -1,2 +1,2 @@
 # TP-GIT-EXO1
-README.md
+je veux comprendre ces exercices
